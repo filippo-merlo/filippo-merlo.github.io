@@ -1,6 +1,6 @@
 ---
 title: "Cognitive and Human-Inspired Evaluation of Vision-Language Models in Scene Understanding"
-excerpt: "My thesis project explores the role of contextual cues in vision-language models for referring expression generation, introducing the COOCO dataset to evaluate models' ability to leverage context under varying scene conditions, and analyzing attention patterns to understand scene processing in multimodal models. <img src='/images/cooco.png' width='500' style='display: block; margin-left: auto; margin-right: auto;'>"
+excerpt: "My thesis project explores the role of contextual cues in vision-language models for referring expression generation, introducing the Common Objects Out-of-Context (COOCO) dataset to evaluate models' ability to leverage context under varying scene conditions, and analyzing attention patterns to understand scene processing in multimodal models. <img src='/images/cooco.png' width='500' style='display: block; margin-left: auto; margin-right: auto;'>"
 collection: portfolio
 ---
 

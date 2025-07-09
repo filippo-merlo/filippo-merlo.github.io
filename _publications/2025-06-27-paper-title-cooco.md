@@ -2,7 +2,7 @@
 title: "COOCO -- Common Objects Out-of-Context -- Semantic Violation in Scenes: Investigating Multimodal Context in Referential Communication"
 collection: publications
 category: manuscripts
-permalink: 'https://arxiv.org/abs/2506.22274'
+permalink: ''
 excerpt: ''
 date: 2025-06-27
 venue: 'Arxiv'

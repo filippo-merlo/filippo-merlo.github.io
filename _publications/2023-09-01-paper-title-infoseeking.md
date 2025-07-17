@@ -2,7 +2,7 @@
 title: "ChatGPT’s Information Seeking Strategy: Insights from the 20-Questions Game"
 collection: publications
 category: manuscripts
-permalink: 'https://aclanthology.org/2023.inlg-main.11/'
+permalink: '/publication/2023-09-01-paper-title-infoseeking'
 excerpt: ''
 date: 2023-09-01
 venue: 'INLG'

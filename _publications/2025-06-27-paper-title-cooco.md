@@ -5,7 +5,7 @@ category: manuscripts
 permalink: '/publication/2025-06-27-paper-title-cooco'
 excerpt: ''
 date: 2025-06-27
-venue: 'Arxiv'
+venue: 'Under Review'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2506.22274'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

@@ -1,0 +1,8 @@
+---
+title: "Priming of Real and Illusory Motion"
+excerpt: "This project I carried out as my bachelor's thesis investigated how real and illusory motion influence visual attention through the phenomenon of priming. Building on paradigms from visual search literature, the study explored whether motion illusions—static images perceived as moving—can induce priming effects comparable to those of actual motion. An online behavioral experiment was conducted in which participants identified the location of a moving target among static distractors across trials. The study assessed priming effects based on target position and rotation direction, both within and across motion types (real vs. illusory). Results indicated that illusory motion, like real motion, acts as a guiding feature in visual search and can elicit priming effects. These findings suggest shared neural pathways and support models of perceptual memory involving multi-level modulation of attentional processes. <img src='/images/experimental_procedure.png' width='500' style='display: block; margin-left: auto; margin-right: auto;'>"
+collection: portfolio
+---
+
+
+[Document](../../files/priming_real_illusory_motion_thesis.pdf) 

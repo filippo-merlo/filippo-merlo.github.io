@@ -1,5 +1,5 @@
 ---
-title: "CCommon Objects Out of Context (COOCo): Investigating Multimodal Context and Semantic Scene Violations in Referential Communication"
+title: "Common Objects Out of Context (COOCo): Investigating Multimodal Context and Semantic Scene Violations in Referential Communication"
 collection: publications
 category: manuscripts
 permalink: '/publication/2025-06-27-paper-title-cooco'

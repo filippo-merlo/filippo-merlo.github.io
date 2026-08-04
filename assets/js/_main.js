@@ -3,18 +3,13 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // detect OS/browser preference
-  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-    ? 'dark'
-    : 'light';
-
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
     const use_theme =
       theme ||
       localStorage.getItem("theme") ||
       $("html").attr("data-theme") ||
-      browserPref;
+      "light";
 
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
@@ -26,15 +21,6 @@ $(document).ready(function () {
   };
 
   setTheme();
-
-  // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
 
   // Toggle the theme manually
   var toggleTheme = function () {
